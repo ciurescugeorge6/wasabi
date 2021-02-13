@@ -153,7 +153,7 @@ bootstrap() {
     sudo apt-get install -y nodejs
     sudo npm install -g bower
     sudo npm install -g grunt-cli
-    sudo npm install -g yo
+    sudo npm install -g yo@2.0.6
 
     #Install compass
     sudo apt-get install -y ruby
